@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="profile_images">profile Images</string>
+    <string name="failed_to_load_users">Failed to load users</string>
+    <string name="try_again">Try again</string>
+    <string name="no_users_were_found">No users were found</string>
+    <string name="delete">Delete</string>
+    <string name="user_deleting">User was successfully deleted</string>
+</resources>
